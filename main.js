@@ -5,6 +5,7 @@ import { setupCounter } from './counter.js'
 document.querySelector('#app').innerHTML = `
   <div>
     <h1>Hello Giffer!</h1>
+    <img src="https://media3.giphy.com/media/1ET7hRlCcZLuE/giphy.gif" alt="jif vs gif">
     <div class="card">
       <button id="counter" type="button"></button>
     </div>
